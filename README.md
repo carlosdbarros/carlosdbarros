@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 ## 👋 Hi! I'm <a href="https://github.om/carlosdbarros">Carlos Daniel</a>
 
@@ -12,7 +12,7 @@ A knowledge lover, always looking to learn more and share information. <br />
 
 ## :dart: Stacks and Skills:
 
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/Python-%23FBD343?style=for-the-badge&logo=python&logoColor=233776AB"/>
   <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=23092E20"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -28,10 +28,14 @@ A knowledge lover, always looking to learn more and share information. <br />
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </p>
+<br />
 
 ![carlosdbarros GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdbarros&show_icons=true&theme=dracula) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdbarros&layout=compact&theme=dracula)](https://github.com/carlosdbarros/github-readme-stats)
 
-💼 | 📚 I'm currently venturing into the Flutter universe!
+<br />
+<p align='center'>
+  💼 | 📚 I'm currently venturing into the Flutter universe! <br />
+  🚀 Objective: Work with amazing people and technologies :heart:
+</p>
 
-🚀 Objective: Work with amazing people and technologies :heart:
